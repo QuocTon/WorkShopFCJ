@@ -11,12 +11,12 @@ pre: "<b> 3.2 </b>"
 1. Chọn bucket vừa tạo ở [Bước 3.1 – Tạo bucket trên S3](#tao-bucket-s3).  
 2. Nhấn nút **Upload**.  
 
-   ![Nút upload file vào bucket S3](/images/1.s3/upload-button.png)
+   ![Nút upload file vào bucket S3](/images/3.s3/upload-button.png)
 
 3. Kéo thả hoặc chọn file `sample.csv` đã chuẩn bị.  
 4. Nhấn **Upload** để hoàn tất.  
 
-   ![Xác nhận upload file CSV thành công](/images/1.s3/upload-success.png)
+   ![Xác nhận upload file CSV thành công](/images/3.s3/upload-success.png)
 
 ---
 
